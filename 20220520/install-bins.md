@@ -12,7 +12,7 @@ sudo cp paloma /usr/bin/palomad
 cd ~
 ```
 
-## install shared library
+## install libwasmvm.x86_64.so
 
 ```bash
 wget -O /usr/lib/libwasmvm.x86_64.so https://github.com/CosmWasm/wasmvm/raw/main/api/libwasmvm.x86_64.so
