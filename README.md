@@ -10,7 +10,7 @@ The following describes what is requried for a single VM that will act as a vali
 ## VM Requirements
 
 1. Compute: 2 CPU
-2. RAM: 8 GB
+2. RAM: 16 GB (MINIMUM)
 3. Disk: 50GB-100GB
 3. Open Ports:
 - 26656 (tendermint p2p)
